@@ -33,3 +33,16 @@ Clone the repository:
 git clone https://github.com/rahulnb17/mental_health.git
 cd mental_health
 pip install -r requirements.txt
+
+## 📢 Contributing  
+We welcome contributions! Please follow these steps:  
+
+1. **Fork** the repository  
+2. **Create** a feature branch:  
+   ```bash
+   git checkout -b feature-xyz
+
+git commit -m "Added feature xyz"
+
+git push origin feature-xyz
+
